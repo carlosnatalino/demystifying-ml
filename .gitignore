@@ -90,6 +90,7 @@ ipython_config.py
 .DS_Store
 downloads
 figures
+OPTICA
 
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
