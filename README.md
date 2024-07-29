@@ -29,6 +29,8 @@ The [datasets](./datasets/) folder contains the datasets that can be used to run
 
 Download the *.ipynb* file and upload it to your Google Drive, then open it with Google Colab.
 
+Alternatively, you can access the files in this folder: https://drive.google.com/drive/folders/1pYidPYx-AreHDcDZsAKekFKBX_asP5QO?usp=sharing
+
 ## Running in your own computer
 
 Create a Python virtual environment, and install the dependencies:
